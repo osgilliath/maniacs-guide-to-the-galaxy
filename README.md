@@ -7,4 +7,5 @@ This program shows how much time is dilated at different speeds, with respect to
 It uses the Lorent'z factor to calculate the dilation:<br/>
 $\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}$
 
-It's a kind of work in progress right now, the entire program is sorted, I just have to improve the GUI.
+It's a kind of work in progress right now, the entire program is sorted, I just have to improve the GUI.<br/>
+I have uploaded two files, both of which have the same function just different UIs.
