@@ -20,7 +20,7 @@ def calculate_time_dilation():
     )
 
 root = tk.Tk()
-root.title("Maniac's Guide to the Galaxy")
+root.title("Maniac's Guide to the Galaxyy")
 
 win_width = 500
 win_height = 400
