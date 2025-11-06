@@ -7,5 +7,21 @@ This program shows how much time is dilated at different speeds, with respect to
 It uses the Lorent'z factor to calculate the dilation:<br/>
 $\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}$
 
-It's a kind of work in progress right now, the entire program is sorted, I just have to improve the GUI.<br/>
-I have uploaded two files, both of which have the same function just different UIs.
+## Chandrayaan-3
+The definitive version of the program, modern UI, sleek looks and still the same old dilation.
+
+## Instructions
+- NO need to install any libraries!!
+- Just run:
+```bash
+python chandrayaan3.py
+```
+- Enter your speed relative to speed of light.
+- You'll know how much time you have with your gf.
+
+## Acknowledgement
+I would like to thank Albert Einstein, you might have heard of him, German Physicist, cool guy<br/>
+I would also like to thank Hendrik Lorentz, a Dutch Physicist for this beautiful formula<br/>
+I would also like to thank another cool person, who is the reason I made this, whom I can't name, cause reasons.
+
+"If I have seen further it is by standing upon the shoulders of giants" -Issac Newton
