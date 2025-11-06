@@ -10,12 +10,15 @@ $\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}$
 ## Chandrayaan-3
 The definitive version of the program, modern UI, sleek looks and still the same old dilation.
 
+<img width="627" height="915" alt="Screenshot 2025-11-06 230428" src="https://github.com/user-attachments/assets/39ea841a-87d8-479e-916c-a2c8fb17c800" />
+
 ## Instructions
 - NO need to install any libraries!!
 - Just run:
 ```bash
 python chandrayaan3.py
 ```
+
 - Enter your speed relative to speed of light.
 - You'll know how much time you have with your gf.
 
