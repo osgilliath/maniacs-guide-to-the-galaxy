@@ -27,4 +27,6 @@ I would like to thank Albert Einstein, you might have heard of him, German Physi
 I would also like to thank Hendrik Lorentz, a Dutch Physicist for this beautiful formula<br/>
 I would also like to thank another cool person, who is the reason I made this, whom I can't name, cause reasons.
 
-"If I have seen further it is by standing upon the shoulders of giants" -Issac Newton
+---
+
+>"If I have seen further it is by standing upon the shoulders of giants" -Issac Newton
